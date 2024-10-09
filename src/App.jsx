@@ -6,7 +6,7 @@ import Card from "./components/cardComponent/index.jsx"
 import cardImg from "./assets/Cloudupload.png"
 import Testimo from "./components/testimonial/index.jsx";
 import testimoImg from "./assets/lil.jpg"
-import logoImg from "./assets/logo.png"
+import logoImg from "./assets/Logo.png"
 import badgesData from "./data/badges.js"
 
 export default function App(){
