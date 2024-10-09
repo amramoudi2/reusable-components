@@ -3,7 +3,7 @@ import "../index.css"
 import checkImg from "../assets/Checkcircle.png"
 import worningImg from "../assets/Exclamation.png"
 import xcircle from "../assets/Xcircle.png"
-import icon from "../assets/icon.png"
+import icon from "../assets/Icon.png"
 
 export default function Banner({text, para, color, maxDisplayWidth = "1200px", ...rest}){
 
